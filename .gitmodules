@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/shouryade/ReviewViz-Frontend
+[submodule "ReviewViz-Frontend"]
+	path = ReviewViz-Frontend
+	url = https://github.com/shouryade/ReviewViz-Frontend
+[submodule "ReviewViz-Backend"]
+	path = ReviewViz-Backend
+	url = https://github.com/shouryade/ReviewViz-backend
